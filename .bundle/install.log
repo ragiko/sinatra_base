@@ -1,0 +1,6 @@
+# Logfile created on 2014-12-18 23:49:20 +0900 by logger.rb/44203
+I, [2014-12-18T23:49:20.113141 #36665]  INFO -- : 0:  rack (1.5.2) from /Users/tag/programing/google_image_server/SinatraTemplate/vendor/bundle/ruby/2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-12-18T23:49:22.425178 #36665]  INFO -- : 0:  rack-protection (1.5.3) from /Users/tag/programing/google_image_server/SinatraTemplate/vendor/bundle/ruby/2.1.0/specifications/rack-protection-1.5.3.gemspec
+I, [2014-12-18T23:49:27.342841 #36665]  INFO -- : 0:  tilt (1.4.1) from /Users/tag/programing/google_image_server/SinatraTemplate/vendor/bundle/ruby/2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-12-18T23:49:36.095999 #36665]  INFO -- : 0:  sinatra (1.4.5) from /Users/tag/programing/google_image_server/SinatraTemplate/vendor/bundle/ruby/2.1.0/specifications/sinatra-1.4.5.gemspec
+I, [2014-12-18T23:49:36.096569 #36665]  INFO -- : 0:  bundler (1.5.1) from /Users/tag/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/gems/bundler-1.5.1/lib/bundler/source
